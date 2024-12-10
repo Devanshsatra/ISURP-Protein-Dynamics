@@ -1,1 +1,2 @@
-# ISURP-Protein-Dynamics
+# Modelling Spatio-Temporal Dynamics of Proteins
+This project simulates a stochastic reaction-diffusion system in a 2D spatial lattice representing a biological cell. It models transcription, translation, degradation, and diffusion processes of DNA, mRNA, and protein across cellular compartments (cytoplasm and nucleus). Using a modified Gillespie algorithm, the simulation incorporates both reaction kinetics and spatial dynamics, providing biologically realistic temporal and spatial behavior. The project includes real-time visualizations (heatmaps and concentration plots) and is scalable for complex biological systems. Ideal for researchers in systems biology or computational biophysics.
